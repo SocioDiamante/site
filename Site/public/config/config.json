@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x43c4977c90BfF7cf6D1C6951c440F3adD1bF376f",
+  "SCAN_LINK": "https://polygonscan.com/token/0x43c4977c90BfF7cf6D1C6951c440F3adD1bF376f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SocioDiamante",
+  "SYMBOL": "SODE",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/socio-diamante",
+  "SHOW_BACKGROUND": true
+}
